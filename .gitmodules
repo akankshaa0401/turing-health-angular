@@ -1,0 +1,3 @@
+[submodule "src/assets/turing-health-design-system"]
+	path = src/assets/turing-health-design-system
+	url = https://gitlab.com/ninad_theta/turing-health-design-system.git
